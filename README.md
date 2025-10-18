@@ -1,7 +1,7 @@
 
 ## 📄 Documentação do Projeto SQL: Importação Eficiente de Dados CSV no MySQL
 
-[](https://github.com/Jhow011/importacao-de-dadosCSV/blob/main/der-erp_db.png)
+![](https://github.com/Jhow011/importacao-de-dadosCSV/blob/main/der-erp_db.png)
 
 ### 1. Visão Geral do Projeto
 
