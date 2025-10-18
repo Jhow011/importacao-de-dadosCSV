@@ -107,3 +107,6 @@ IGNORE 1 ROWS;
 ```
 
 A estrutura da tabela deve corresponder à ordem e aos tipos de dados das colunas no arquivo CSV para que a importação seja bem-sucedida.
+
+
+[](https://github.com/Jhow011/importacao-de-dadosCSV/blob/main/der-erp_db.png)
